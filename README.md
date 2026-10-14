@@ -12,63 +12,77 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a backend developer focused on building reliable APIs, business applications, and database-driven systems.
+I'm a backend developer focused on building reliable APIs, ERP systems, and database-driven business applications.
 
-- 💻 Contributing to ERP software development at Hertex Business Suite.
-- ⚙️ Developing backend services and REST APIs using Python and FastAPI.
-- 🗄️ Working with relational databases and API integrations.
-- 🌱 Learning microservices architecture and system design.
-- 🎯 Focused on writing maintainable, efficient, and scalable code.
+- 💻 Contributing to ERP software development at Hertex Business Suite and Regal
+- ⚙️ Developing backend services and REST APIs using Python and FastAPI
+- 🗄️ Working with relational databases and API integrations
+- 🌱 Learning microservices architecture and system design
+- 🎯 Focused on writing maintainable, efficient, and scalable code
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,php,mysql,postgres,redis,git,github,linux,docker,postman&perline=6" alt="Technology stack icons" />
-</p>
-
-## Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-2563EB?style=flat-square" alt="Microservices" />
-  <img src="https://img.shields.io/badge/System_Design-0F766E?style=flat-square" alt="System Design" />
-  <img src="https://img.shields.io/badge/Database_Optimization-7C3AED?style=flat-square" alt="Database Optimization" />
-  <img src="https://img.shields.io/badge/API_Architecture-475569?style=flat-square" alt="API Architecture" />
-</p>
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vidhu619&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhu619&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
+---
 
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vidhu619&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <!-- Larger streak image for more prominence -->
+  <img src="https://streak-stats.demolab.com?user=Vidhu619&theme=github-dark-blue&hide_border=true&date_format=M%20j%2C%20Y&ring=0088ff" alt="GitHub contribution streak" />
 </p>
 
-## Contribution Activity
+<!-- Keep a short summary to call out recent activity -->
+<p align="center">Current streak, total contributions and activity visualized above — keep commits coming! 🔥</p>
+
+---
+
+## Focus Languages
+
+I've highlighted the languages and frameworks I focus on right now. These reflect my current work and priorities (Python backend, FastAPI, Django, and React for front-facing UIs).
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidhu619&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 </p>
 
-## Featured Projects
+<p align="center">
+  <!-- retained dynamic top-langs but emphasized the manual badges above -->
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhu619&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
 
-Explore my repositories to see my backend development work.
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,mysql,postgres,redis,git,github,linux,docker,postman&perline=6" alt="Technology stack icons" />
+</p>
+
+- Languages: Python, JavaScript/TypeScript (React), SQL, PHP (historical)
+- Frameworks: FastAPI, Django, React
+- Databases: MySQL, PostgreSQL, Redis
+- Tools: Git, GitHub, Docker, Postman, Linux
+
+---
+
+## Featured Work
+
+Explore my repositories to see the backend and application work I’m building.
 
 <p align="center">
   <a href="https://github.com/Vidhu619?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
 </p>
+
+---
 
 ## Connect
 
