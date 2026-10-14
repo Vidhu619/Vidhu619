@@ -1,97 +1,103 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Vidhu%20Krishnan&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI&descAlignY=60&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0891B2&height=220&section=header&text=Vidhu%20Krishnan&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20Django%20%7C%20React&descSize=16&descAlignY=58&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Building+REST+APIs+with+FastAPI;Working+with+ERP+and+Business+Systems;Learning+Microservices+%26+System+Design;Building+Reliable+Business+Applications" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+APIs+with+Python+%26+FastAPI;Developing+Web+Applications+with+Django;Creating+Interactive+UIs+with+React;Working+with+Databases+%26+ERP+Systems;Learning+Scalable+Software+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vidhu619">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</p>
-
----
-
-## About Me
-
-I'm a backend developer focused on building reliable APIs, ERP systems, and database-driven business applications.
-
-- 💻 Contributing to ERP software development at Hertex Business Suite and Regal
-- ⚙️ Developing backend services and REST APIs using Python and FastAPI
-- 🗄️ Working with relational databases and API integrations
-- 🌱 Learning microservices architecture and system design
-- 🎯 Focused on writing maintainable, efficient, and scalable code
-
----
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vidhu619&theme=github-dark-blue&hide_border=true&date_format=M%20j%2C%20Y&ring=0088ff" alt="GitHub contribution streak" />
+  <a href="https://github.com/Vidhu619"><img src="https://img.shields.io/badge/GitHub-Vidhu619-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
 <p align="center">
-  Current streak and contribution activity reflected above. 🔥
+  <a href="https://www.linkedin.com/in/vidhu-krishnan-jm-133264288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## Focus Languages
+## 👨‍💻 About Me
 
-> My current technical focus is backend development with Python, FastAPI, Django, and React for interface work.
+I'm a Python Backend Developer interested in building reliable APIs, modern web applications, and database-driven business systems.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python focus" />
-  <img src="https://img.shields.io/badge/FastAPI-20%25-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI focus" />
-  <img src="https://img.shields.io/badge/Django-10%25-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django focus" />
-  <img src="https://img.shields.io/badge/React-10%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React focus" />
+- 🐍 Building backend services with **Python, FastAPI, and Django**
+- ⚛️ Developing interactive user interfaces with **React**
+- 🔌 Designing REST APIs and integrating frontend applications with backend services
+- 🗄️ Working with relational databases, SQL, and data-driven applications
+- 🏢 Contributing to ERP and business application development
+- 🌱 Exploring microservices, software architecture, and backend scalability
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django" alt="Python, FastAPI and Django"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" alt="React, JavaScript, TypeScript, HTML and CSS"/>
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,docker,postman,linux" alt="PostgreSQL, MySQL, Redis, Git, GitHub, Docker, Postman and Linux"/>
 </p>
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,mysql,postgres,redis,git,github,linux,docker,postman&perline=6" alt="Technology stack icons" />
-</p>
-
-- Languages: Python, JavaScript/TypeScript (React), SQL
-- Frameworks: FastAPI, Django, React
-- Databases: MySQL, PostgreSQL, Redis
-- Tools: Git, GitHub, Docker, Postman, Linux
-
----
-
-## Featured Work
-
-Explore my repositories to see the backend and application work I’m building.
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Vidhu619?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
   </a>
+</p>
+
+I'm interested in projects involving:
+
+- **Backend APIs:** Authentication, validation, business logic, and integrations
+- **Web Applications:** React interfaces connected to Python backends
+- **Business Systems:** ERP workflows, inventory, invoicing, and database management
+
+*Add your strongest individual or publicly approved projects here, with a short description and a direct repository link.*
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vidhu619&theme=github-dark-blue&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-## Connect
+## 🎯 Currently Learning
+
+- Microservices architecture and service-to-service communication
+- Database transactions, indexing, and query optimization
+- API design, testing, and maintainable backend architecture
+- Connecting React frontends with Python backend services
+- Docker and deployment workflows
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Vidhu619">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/vidhu-krishnan-jm-133264288/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
+  <a href="https://github.com/Vidhu619">GitHub</a> •
+  <a href="https://www.linkedin.com/in/vidhu-krishnan-jm-133264288/">LinkedIn</a>
 </p>
 
 <p align="center">
-  <i>Building, learning, and improving one commit at a time.</i>
+  <i>Building useful software, improving every day, and learning through real-world projects.</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:0F172A&height=110&section=footer)
