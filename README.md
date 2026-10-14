@@ -79,20 +79,18 @@ I'm interested in projects involving:
 
 ---
 
+
+---
+
 ## 📊 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Vidhu619/README/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Vidhu619/README/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution graph"
-      src="https://raw.githubusercontent.com/Vidhu619/README/output/github-contribution-grid-snake.svg"
-      width="100%">
-  </picture>
+  <img
+    src="https://ghchart.rshah.org/409ba5/Vidhu619"
+    alt="Vidhu619's GitHub contribution graph"
+    width="100%"
+  />
 </p>
-
 
 ## 🎯 Currently Learning
 
