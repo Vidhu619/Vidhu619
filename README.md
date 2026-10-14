@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Vidhu%20Krishnan&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI&descAlignY=60&descSize=16)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Building+REST+APIs+with+FastAPI;Learning+Microservices+%26+System+Design;Building+Reliable+Business+Applications" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Building+REST+APIs+with+FastAPI;Working+with+ERP+and+Business+Systems;Learning+Microservices+%26+System+Design;Building+Reliable+Business+Applications" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -75,6 +75,9 @@ Explore my repositories to see my backend development work.
 <p align="center">
   <a href="https://github.com/Vidhu619">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/vidhu-krishnan-jm-133264288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
 
