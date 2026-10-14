@@ -32,29 +32,24 @@ I'm a backend developer focused on building reliable APIs, ERP systems, and data
 ## Contribution Streak
 
 <p align="center">
-  <!-- Larger streak image for more prominence -->
   <img src="https://streak-stats.demolab.com?user=Vidhu619&theme=github-dark-blue&hide_border=true&date_format=M%20j%2C%20Y&ring=0088ff" alt="GitHub contribution streak" />
 </p>
 
-<!-- Keep a short summary to call out recent activity -->
-<p align="center">Current streak, total contributions and activity visualized above — keep commits coming! 🔥</p>
+<p align="center">
+  Current streak and contribution activity reflected above. 🔥
+</p>
 
 ---
 
 ## Focus Languages
 
-I've highlighted the languages and frameworks I focus on right now. These reflect my current work and priorities (Python backend, FastAPI, Django, and React for front-facing UIs).
+> My current technical focus is backend development with Python, FastAPI, Django, and React for interface work.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-</p>
-
-<p align="center">
-  <!-- retained dynamic top-langs but emphasized the manual badges above -->
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhu619&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python focus" />
+  <img src="https://img.shields.io/badge/FastAPI-20%25-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI focus" />
+  <img src="https://img.shields.io/badge/Django-10%25-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django focus" />
+  <img src="https://img.shields.io/badge/React-10%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React focus" />
 </p>
 
 ---
@@ -65,7 +60,7 @@ I've highlighted the languages and frameworks I focus on right now. These reflec
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,mysql,postgres,redis,git,github,linux,docker,postman&perline=6" alt="Technology stack icons" />
 </p>
 
-- Languages: Python, JavaScript/TypeScript (React), SQL, PHP (historical)
+- Languages: Python, JavaScript/TypeScript (React), SQL
 - Frameworks: FastAPI, Django, React
 - Databases: MySQL, PostgreSQL, Redis
 - Tools: Git, GitHub, Docker, Postman, Linux
