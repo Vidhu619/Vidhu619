@@ -1,145 +1,103 @@
-<!-- PROFILE HEADER -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0891B2&height=220&section=header&text=Vidhu%20Krishnan&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20Django%20%7C%20React&descSize=16&descAlignY=58&animation=fadeIn)
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+APIs+with+Python+%26+FastAPI;Developing+Web+Applications+with+Django;Creating+Interactive+UIs+with+React;Working+with+Databases+%26+ERP+Systems;Learning+Scalable+Software+Architecture" alt="Typing SVG" />
+</p>
 
-# Vidhu Krishnan
+<p align="center">
+  <a href="https://github.com/Vidhu619"><img src="https://img.shields.io/badge/GitHub-Vidhu619-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
-### Python Backend Developer
-
-**Python · FastAPI · Django · React**
-
-Building reliable APIs, modern web applications, and scalable business systems.
-
-<br/>
-
-<a href="https://github.com/Vidhu619">
-  <img src="https://img.shields.io/badge/GitHub-Vidhu619-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/vidhu-krishnan-jm-133264288/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vidhu-krishnan-jm-133264288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Python Backend Developer focused on building maintainable backend services, REST APIs, and database-driven applications.
+I'm a Python Backend Developer interested in building reliable APIs, modern web applications, and database-driven business systems.
 
-- Building backend applications with **Python, FastAPI, and Django**
-- Developing interactive interfaces with **React**
-- Working with relational databases and API integrations
-- Contributing to ERP and business management software
-- Exploring microservices, system design, and scalable architectures
-
----
-
-## Technical Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django&theme=dark" alt="Python FastAPI Django"/>
-
-**Python · FastAPI · Django**
-
-REST APIs, backend logic, validation, and integrations.
-
-</td>
-<td width="50%" valign="top">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" alt="React JavaScript TypeScript HTML CSS"/>
-
-**React · JavaScript · TypeScript**
-
-Component-based interfaces and frontend integration.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL MySQL Redis"/>
-
-**PostgreSQL · MySQL · Redis**
-
-Relational data, queries, and caching.
-
-</td>
-<td width="50%" valign="top">
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman&theme=dark" alt="Git GitHub Docker Linux Postman"/>
-
-**Git · Docker · Linux · Postman**
-
-Version control, development, and API testing.
-
-</td>
-</tr>
-</table>
+- 🐍 Building backend services with **Python, FastAPI, and Django**
+- ⚛️ Developing interactive user interfaces with **React**
+- 🔌 Designing REST APIs and integrating frontend applications with backend services
+- 🗄️ Working with relational databases, SQL, and data-driven applications
+- 🏢 Contributing to ERP and business application development
+- 🌱 Exploring microservices, software architecture, and backend scalability
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-<div align="center">
+### Backend Development
 
-<a href="https://github.com/Vidhu619?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django" alt="Python, FastAPI and Django"/>
+</p>
 
-</div>
+### Frontend Development
 
-I'm interested in building practical software that combines robust backend architecture, clean APIs, and intuitive user interfaces.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" alt="React, JavaScript, TypeScript, HTML and CSS"/>
+</p>
 
-**Areas I work with**
-- Backend API development and integrations
-- ERP workflows and business applications
-- Database-driven web applications
-- Frontend and backend integration
+### Databases & Tools
 
-*Replace this section with links to your best individual projects as you prepare them for public presentation.*
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vidhu619&show_icons=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhu619&layout=compact&hide_border=true&theme=github_dark&title_color=58A6FF" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Vidhu619&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,docker,postman,linux" alt="PostgreSQL, MySQL, Redis, Git, GitHub, Docker, Postman and Linux"/>
+</p>
 
 ---
 
-## Currently Exploring
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Vidhu619?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  </a>
+</p>
+
+I'm interested in projects involving:
+
+- **Backend APIs:** Authentication, validation, business logic, and integrations
+- **Web Applications:** React interfaces connected to Python backends
+- **Business Systems:** ERP workflows, inventory, invoicing, and database management
+
+*Add your strongest individual or publicly approved projects here, with a short description and a direct repository link.*
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vidhu619&theme=github-dark-blue&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🎯 Currently Learning
 
 - Microservices architecture and service-to-service communication
-- Database optimization and transaction management
-- Scalable API design and automated testing
-- Docker-based development and deployment
+- Database transactions, indexing, and query optimization
+- API design, testing, and maintainable backend architecture
+- Connecting React frontends with Python backend services
+- Docker and deployment workflows
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-**Build. Learn. Improve. Repeat.**
+<p align="center">
+  <a href="https://github.com/Vidhu619">GitHub</a> •
+  <a href="https://www.linkedin.com/in/vidhu-krishnan-jm-133264288/">LinkedIn</a>
+</p>
 
-<sub>Thanks for visiting my profile!</sub>
+<p align="center">
+  <i>Building useful software, improving every day, and learning through real-world projects.</i>
+</p>
 
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:0F172A&height=110&section=footer)
