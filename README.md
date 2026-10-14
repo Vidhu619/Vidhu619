@@ -78,6 +78,13 @@ I'm interested in projects involving:
 </p>
 
 ---
+## 📊 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Vidhu619">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidhu619&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+  </a>
+</p>
 
 ## 🎯 Currently Learning
 
