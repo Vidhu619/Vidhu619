@@ -82,15 +82,7 @@ I'm interested in projects involving:
 
 ---
 
-## 📊 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/409ba5/Vidhu619"
-    alt="Vidhu619's GitHub contribution graph"
-    width="100%"
-  />
-</p>
 
 ## 🎯 Currently Learning
 
