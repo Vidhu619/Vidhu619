@@ -78,13 +78,21 @@ I'm interested in projects involving:
 </p>
 
 ---
+
 ## 📊 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/Vidhu619">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidhu619&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vidhu619/README/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Vidhu619/README/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution graph"
+      src="https://raw.githubusercontent.com/Vidhu619/README/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
 </p>
+
 
 ## 🎯 Currently Learning
 
